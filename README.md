@@ -17,3 +17,11 @@ Auto Loan Generator is a web-based application that allows users to apply for au
 <li>Build Tool: Maven</li>
 <li>Server: Apache Tomcat</li>
 </ul>
+<br><br>
+🏗️ <b>Future Enhancements</b><br>
+🚀 Email Notifications for Loan Updates<br>
+🚀 User Loan History<br>
+🚀 EMI Calculator<br>
+<br>
+🤝 <b>Contributing</b><br>
+Feel free to fork this repository and contribute by submitting pull requests.
